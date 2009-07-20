@@ -17,9 +17,9 @@ class Aliases
     @svn_aliases = svn_authz[:aliases] 
   end
 
-  def find_ldap_id( alias )
+  def find_ldap_id( alias_id )
 
-    @svn_aliases[alias]
+    @svn_aliases[alias_id]
   end
 end
 
