@@ -1,0 +1,9 @@
+h1. SVN Auth Tool
+
+This repo started out with just my frunstation with this Tool ACL policy.
+
+h2. Description
+
+This is a CLI tool that could help a lot of sysadmins with Subverison ACL mechanism
+                      
+
